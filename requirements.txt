@@ -1,6 +1,6 @@
-pip install python-dotenv
-pip install langchain
-Pip install streamlit
-pip install -- upgrade pip
-pip install --upgrade langchain
-pip instal openai
+python-dotenv
+langchain
+streamlit
+upgrade pip
+upgrade langchain
+openai
